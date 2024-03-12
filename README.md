@@ -21,4 +21,4 @@ No dashboard  da análise acima, foram analisadas os dados de 10.127 pessoas, ta
    * O número de mulheres com escolaridade são maiores que a dos homens.
    * Ganhos anuais dos homens são maiores que representa 68,1% e das mulheres 31,9%.
    * Homens tem maior quantidade de meses de relacionamento: mostrado no gráfico que a idade máxima que as mulheres conseguiram manter com idade de 67 anos foram de 56 meses e quanto a idade máxima dos homens foi de 73 com 36 meses.
-   * O Total de límite de crédito foi das pessoas casadas com 43,31% sendo que 13,3% são mulheres e 26,47% são homens e em seguida com os Solteiros com 40,59% sendo que 12,7% são mulheres e 27,89% são homens.
+   * O Total de límite de crédito maior foi das pessoas casadas com 43,31% sendo que 13,3% são mulheres e 26,47% são homens e em seguida com os Solteiros com 40,59% sendo que 12,7% são mulheres e 27,89% são homens.
