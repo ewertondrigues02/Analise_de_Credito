@@ -2,8 +2,8 @@
 
 ## Análise I
 
-Veja o gráfico abaixo para essa análise:
-  
+   Para a análise foram utilizadas as seguintes ferramentas: Excel, Power BI, Power Point, Python, Jupyter Notebook. Veja o gráfico abaixo para essa análise:
+
 ![dashboard_da_analise_1](https://github.com/ewertondrigues02/Analise_de_Credito/assets/106437473/da5bcd49-5628-450e-8b47-aa41d57a4e95)
 
 
