@@ -33,3 +33,7 @@ No dashboard  da análise acima, foram analisadas os dados de 10.127 pessoas, ta
 
 
 Na análise do dashboard acima iremos ver mais algumas análise como:
+
+  * A menor idade encontrada de uma pessoa com cartão Platinum onde o limite de crédito é o maior foi de uma mulher com 39 anos enquanto a menor idade do homem foi com 41 anos.
+  * Média de limite de crédito para os cartões em reais são: Platinum: 30 mil, Gold: 28 mil, Silver: 25 mil, Blue: 7 mil.
+  * 
