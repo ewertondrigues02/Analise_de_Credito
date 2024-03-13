@@ -51,5 +51,6 @@ Na análise do dashboard acima iremos ver mais algumas análise como:
  * Direnças na quantidade é 5,89% a mais de mulheres do que homens nessa análise.
  * O homens são em maior número pessoas com cartão.
  * Salário anual das mulheres foi de R$182 mil e as transações foi de 356 mil também em 12 meses ou seja mulheres gastam mais ganhando menos.
- * Salário anual dos homens foi de R$389 mil e 301 mil transações também em 12 meses sou seja os salário foi maior do que o número de transações.
- * 
+ * Salário anual dos homens foi de R$389 mil e 301 mil transações também em 12 meses ou seja os salários foram maior do que o número de transações.
+ * O valor total de transações feitas pelos homens foram de R$21 milhões em 12 meses.
+ * O valor total de transações feita pelas mulheres foram de R$23 milhões em 12 meses.
