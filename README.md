@@ -38,5 +38,9 @@ Na análise do dashboard acima iremos ver mais algumas análise como:
   * Média de limite de crédito para os cartões em reais são: Platinum: 30 mil, Gold: 28 mil, Silver: 25 mil, Blue: 7 mil.
   * A média do limite de crédito em reais para as pessoas com ou sem escolaridade são: Doutorado: R$8.650 - Mestrado: R$8.570 - Graduação: R$8.690 - Ensino Médio R$8.610 - Sem Educação Formal (S. E. Formal): R$8.900 - NA: R$8.490.
   * Quantidade de pessoas com escolaridade e seus respectivos cartões:
-      * Doutorado: 5 pessoas com cartão Platinum - 10 pessoas com cartão Gold - 54 pessoas com cartão Silver - 898 pessoas com cartão Blue.
-      * Mestrado: 8 pessoas com cartão Platinum
+      * Doutorado: 5 pessoas com cartão Platinum 2 mulheres e 3 homens- 10 pessoas com cartão Gold sendo 4 mulheres e 6 homens - 54 pessoas com cartão Silver sendo 19 mulheres e 35  homens - 898 pessoas com cartão Blue sendo 495 mulheres e 403 homens.
+      * Mestrado: 8 pessoas com cartão Platinum sendo 4 mulheres e 4 homens- 36 pessoas com cartão Gold sendo 12 mulheres e 24 homens - 185 pessoas com cartão Silver sendo 69 mulheres e 116 homens - 2899 pessoas com cartão Blue sendo 1585 mulheres e 1314 homens.
+      * Graduação: 15 Pessoas com cartão Gold sendo 4 mulheres e 11 homens - 58 pessoas com cartão Silver sendo 19 mulheres e 39 homens - 940 pessoas com cartão Blue sendo 509 mulheres e 431 homens.
+      * Ensino Médio: 1 pessoa com cartão Platinum  sendo essa mulher- 26 pessoas com cartão Gold - 98 pessoas com cartão Silver - 1888 pessoas com cartão Blue.
+      * S. E. Formal(Sem Educação Formal): 3 pessoas com cartão Platinum - 11 pessoas com cartão Gold - 82 pessoas com cartão Silver - 1391 pessoas com cartão Blue.
+      * NA: 3 pessoas com cartão Platinum - 18 pessoas com cartão Gold - 78 pessoa com cartão Silver - 1420 pessoas com cartão Blue.
