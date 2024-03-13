@@ -36,4 +36,7 @@ Na análise do dashboard acima iremos ver mais algumas análise como:
 
   * A menor idade encontrada de uma pessoa com cartão Platinum onde o limite de crédito é o maior foi de uma mulher com 39 anos enquanto a menor idade do homem foi com 41 anos.
   * Média de limite de crédito para os cartões em reais são: Platinum: 30 mil, Gold: 28 mil, Silver: 25 mil, Blue: 7 mil.
-  * 
+  * A média do limite de crédito em reais para as pessoas com ou sem escolaridade são: Doutorado: R$8.650 - Mestrado: R$8.570 - Graduação: R$8.690 - Ensino Médio R$8.610 - Sem Educação Formal (S. E. Formal): R$8.900 - NA: R$8.490.
+  * Quantidade de pessoas com escolaridade e seus respectivos cartões:
+      * Doutorado: 5 pessoas com cartão Platinum - 10 pessoas com cartão Gold - 54 pessoas com cartão Silver - 898 pessoas com cartão Blue.
+      * Mestrado: 8 pessoas com cartão Platinum
