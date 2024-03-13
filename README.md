@@ -45,3 +45,11 @@ Na análise do dashboard acima iremos ver mais algumas análise como:
       * Ensino Médio: 1 pessoa com cartão Platinum  sendo essa mulher - 26 pessoas com cartão Gold sendo 8 mulheres e 18 homens - 98 pessoas com cartão Silver sendo 36 mulheres e 62 homens - 1888 pessoas com cartão Blue sendo 983 mulheres e 905 homens.
       * S. E. Formal(Sem Educação Formal): 3 pessoas com cartão Platinum sendo 1 mulher e 2 homens - 11 pessoas com cartão Gold sendo 4 mulheres e 7 homens - 82 pessoas com cartão Silver sendo 39 mulheres e 43 homens - 1391 pessoas com cartão Blue sendo 752 mulheres e 639 homens.
       * NA: 3 pessoas com cartão Platinum sendo 1 mulher 2 homens - 18 pessoas com cartão Gold sendo 6 mulheres e 12 homens - 78 pessoa com cartão Silver sendo 28 mulheres e 50 homens - 1420 pessoas com cartão Blue sendo 777 mulheres e 643 homens.
+   
+# Conclusão
+
+    * Direnças na quantidade é 5,89% a mais de mulheres do que homens nessa análise.
+    * O homens são em maior número pessoas com cartão.
+    * Salário anual das mulheres foi de R$182 mil e as transações foi de 356 mil também em 12 meses ou seja mulheres gastam mais ganhando menos.
+    * Salário anual dos homens foi de R$389 mil e 301 mil transações também em 12 meses sou seja os salário foi maior do que o número de transações.
+    * 
