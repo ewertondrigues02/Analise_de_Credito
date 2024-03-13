@@ -54,3 +54,4 @@ Na análise do dashboard acima iremos ver mais algumas análise como:
  * Salário anual dos homens foi de R$389 mil e 301 mil transações também em 12 meses ou seja os salários foram maior do que o número de transações.
  * O valor total de transações feitas pelos homens foram de R$21 milhões em 12 meses.
  * O valor total de transações feita pelas mulheres foram de R$23 milhões em 12 meses.
+ * A faixa etária de idades onde maior valor gasto foram: entre 36 e 46 anos foi de R$19 milhões em 12 meses e entre 46 e 56 anos foi mais de R$19 milhões também em 12 meses.
