@@ -4,7 +4,8 @@
 
 Veja o gráfico abaixo para essa análise:
   
-![dashboard_da_analise_1](https://github.com/ewertondrigues02/Analise_de_Credito/assets/106437473/530fca36-b8ef-4277-94a9-70f914068488)
+![dashboard_da_analise_1](https://github.com/ewertondrigues02/Analise_de_Credito/assets/106437473/da5bcd49-5628-450e-8b47-aa41d57a4e95)
+
 
 No dashboard  da análise acima, foram analisadas os dados de 10.127 pessoas, tanto homens como mulheres sendo 4.769 homens e 5.358 mulheres no **Período de 12 meses**. Com os seguintes dados:
 
@@ -29,7 +30,7 @@ No dashboard  da análise acima, foram analisadas os dados de 10.127 pessoas, ta
 
   Veja o gráfico abaixo para a análise:
 
-  ![dashboard_da_analise_2](https://github.com/ewertondrigues02/Analise_de_Credito/assets/106437473/1760b9b7-f86e-4ede-8371-15a106faccfa)
+  ![dashboard_da_analise_2](https://github.com/ewertondrigues02/Analise_de_Credito/assets/106437473/6214b44f-4ade-42d4-a2e7-1ecd79907d41)
 
 
 Na análise do dashboard acima iremos ver mais algumas análise como:
