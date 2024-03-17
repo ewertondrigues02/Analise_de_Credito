@@ -56,4 +56,6 @@ Na análise do dashboard acima iremos ver mais algumas análise como:
  * O valor total de transações feita pelas mulheres foram de R$23 milhões em 12 meses.
  * A faixa etária de idades onde maior valor gasto foram: entre 36 e 46 anos foi de R$19 milhões em 12 meses e entre 46 e 56 anos foi mais de R$19 milhões também em 12 meses.
 
+## Fonte dos Dados
+
 Fonte dos dados: https://www.kaggle.com/code/kagglecomjooneto/analise-de-cr-dito 
